@@ -1,0 +1,64 @@
+.summeryContainer{
+        margin-right: 10px;
+        border: 1px solid rgb(0, 0, 48);
+        border-radius: 10px;
+        padding: 10px;
+        background-color: white;
+        height: 550px;
+        width: 400px;
+        position: relative;
+        top: 0;
+        margin:auto;
+       
+
+}
+.summeryContainer img{
+text-align: center;
+height: 70px;
+width: 70px;
+border: 1px solid rgba(160, 152, 152, 0.613);
+border-radius: 50%;
+
+}
+h6{
+    padding: 17px;
+    text-align: center;
+    color: rgb(199, 207, 214);
+}
+.btn{
+     position: absolute;
+    bottom: 0;
+    width: 95%;
+     background-color:'green' ;
+     border-radius: 10px;
+ }
+.button{
+    color: rgb(255, 255, 255);
+    background-color: rgb(24, 4, 246);
+    margin: auto;
+    height: 65px;
+    width:65px;
+    padding: 15px;
+    border: 1px solid red;
+    border-radius: 50%;
+}
+.sm{
+    color: rgb(174, 174, 174);
+}
+.btnn{
+    background-color: green;
+    position: absolute;
+    bottom: 0;
+    height: 40px;
+    border-radius: 10px;
+    padding-left: 116px;
+    padding-right: 116px;
+    margin: auto;
+    font-weight: 500;
+    color: rgb(193, 193, 193);
+}
+.hhhhh{
+    position: absolute;
+    top: 0;
+   
+}

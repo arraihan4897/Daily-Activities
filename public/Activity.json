@@ -1,0 +1,50 @@
+[
+    {
+      "id": "1",
+      "name": "Morning Walk",
+      "time": 30,
+      "img": "https://bit.ly/40zzRLf",
+      "about": "When i woke up early in the Morning then i went to the Field for morning Walk. Its very helpFul for body and mind."
+  
+    },
+      {
+        "id": "2",
+        "name": "Breakfast",
+        "time": 10,
+        "img": "https://bit.ly/3JCy7df",
+        "about": "When I come from field then i take a breakfast then i go to my institute"
+      },
+      
+      {
+        "id": "3",
+        "name": "Lunch",
+        "time": 20,
+        "img": "https://bit.ly/40shhVc",
+        "about": "After coming from the college then i eat lunch and take little bit rest "
+  
+      },
+      {
+        "id": "4",
+        "name": "Playing",
+        "time":40,
+        "img": "https://bit.ly/406QPAG",
+        "about":"At 4.00 pm I go to the Field for Playing Football, i love to play football very much"
+  
+      },
+      {
+        "id": "5",
+        "name": "Dinner",
+        "time": 20,
+        "img": "https://bit.ly/40efvaw",
+        "about":"After Completing my study i eat dinner then i walk few minutes"
+  
+      },
+      {
+        "id": "6",
+        "name": "Reading Book",
+        "time":30,
+        "img": "https://bit.ly/42NxhDp",
+        "about":"Reading book is my hobby . sometimes I read Science fiction book for acquiring knowledge"
+  
+      }
+  ]
